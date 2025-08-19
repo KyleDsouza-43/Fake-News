@@ -1,8 +1,8 @@
-# This project is about a Fake a News Detection system
-# Author: Kyle Dsouza
-# About Project:
+## **Fake News Detection system**
+## **Author: Kyle Dsouza**
+# **About Project:**
 # This project uses machine learning algorithm to check whether a given news headline is fake or not
-# How it works?
+# **How it works?**
 # - Data Loading: Loads a dataset (100_news.csv) containing news articles and their labels (REAL or FAKE).
 # - Text Preprocessing:
 # - Converts text to lowercase.
